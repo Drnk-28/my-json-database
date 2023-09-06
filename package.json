@@ -1,0 +1,25 @@
+{
+  "name": "my-json-database",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "description": "simple database of json, for discord bot",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuadJTM/my-json-database.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "FuadJTM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuadJTM/my-json-database/issues"
+  },
+  "homepage": "https://github.com/FuadJTM/my-json-database#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
